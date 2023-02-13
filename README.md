@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com front-end e back-end
 - 🌱 Estudando Next.js e Laravel
-- 😅 Tentando aprender Cyber Segurança
+- 😅 Tentando aprender Cyber Segurança e Machine Learning
 
 ##
 <div>
