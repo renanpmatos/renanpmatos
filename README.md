@@ -6,8 +6,8 @@
 
 ##
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanpmatos&show_icons=true&theme=aura">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanpmatos&langs_count=14&theme=aura">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renanpmatos&show_icons=true&theme=aura">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanpmatos&langs_count=14&theme=aura">
 </div>
 
 ##
