@@ -4,13 +4,13 @@
 - 🌱 Estudando Next.js e Laravel
 - 😅 Tentando aprender Cyber Segurança
 
-##
+<br>
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renanpmatos&show_icons=true&theme=aura">
   <img height="200em" width="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanpmatos&langs_count=14&theme=aura">
 </div>
 
-##
+#
 ### Linguagens que tenho experiência:
 
 <div style="display: inline-block">
@@ -23,7 +23,7 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 
-##
+#
 ### Contato:
 
 <div>
