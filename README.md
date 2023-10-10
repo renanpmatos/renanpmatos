@@ -1,9 +1,8 @@
 # Oii! Eu sou o Renan :)
 
 - 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando Next.js e Laravel
-- 😅 Tentando aprender Cyber Segurança
-
+- 🌱 Estudando Next.js e Java
+- 😅 Tentando aprender Cyber Segurança e Redes de Computadores
 <br>
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=renanpmatos&show_icons=true&theme=aura">
