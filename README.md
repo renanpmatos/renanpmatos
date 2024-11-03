@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🔭 Hoje desenvolvo sistemas web na Fatec Bauru
+- 🔭 Programador Backend na Lecom Tecnologia
 - 🌱 Aos poucos na jornada de me tornar Full Stack
 - 😅 Estudando Cyber Segurança no tempo livre
 - 🧩 Adoro um bom Desafio!
